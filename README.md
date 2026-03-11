@@ -4,6 +4,18 @@ Teste técnico de QA realizado para a Beedoo.
 
 ---
 
+## Resumo da execução do desafio
+
+Durante a execução deste desafio foram realizados:
+
+- 44 Casos de Teste elaborados
+- 44 Casos de Teste executados
+- 15 Bugs identificados
+- Evidências documentadas para os defeitos encontrados
+- Análise crítica de validações e comportamentos do sistema
+
+---
+
 ## Qual você acredita ser o objetivo da aplicação?
 
 A aplicação tem como objetivo permitir o cadastro, gerenciamento e visualização de cursos, possibilitando que usuários registrem informações como nome do curso, descrição, instrutor, datas, número de vagas e tipo de curso (online ou presencial).
